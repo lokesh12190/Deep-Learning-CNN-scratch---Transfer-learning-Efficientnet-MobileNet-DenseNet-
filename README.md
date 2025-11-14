@@ -166,7 +166,7 @@ Contributions are what make the open-source community such an amazing place to l
 - Bug fixes and testing
 ## :page_facing_up: License
 Distributed under the MIT License. See `LICENSE` file for more information.
-## :male-technologist: Authors
+## :technologist: Authors
 **Rafael Rocha** - https://github.com/rafaeldr5150
 **Lokesh** - https://github.com/lokesh12190
 ## :pray: Acknowledgements
